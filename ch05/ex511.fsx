@@ -1,1 +1,1 @@
-let buildPerson forename surname age = forename, surname, age
+let buildPerson forename surname age = forename, surname
